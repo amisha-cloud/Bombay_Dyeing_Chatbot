@@ -29,7 +29,7 @@ The chatbot aims to:
 ### Frontend Setup
 
 1. **Clone the repository**:
-git clone https://github.com/yourusername/Bombay_Dyeing_Chatbot.git
+git clone https://github.com/amisha-cloud/Bombay_Dyeing_Chatbot.git
 
 2. **Navigate to the frontend directory**:
 cd Bombay_Dyeing_Chatbot/frontend
@@ -57,4 +57,7 @@ uvicorn main:app --reload
 
 ## Conclusion
 
-The **Bombay Dyeing Chatbot** streamlines employee query handling by automating r
+
+## Conclusion
+
+The **Bombay Dyeing Chatbot** streamlines employee query handling by automating responses and ticket creation, improving internal communication and efficiency.
