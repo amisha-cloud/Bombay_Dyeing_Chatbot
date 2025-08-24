@@ -31,46 +31,29 @@ The chatbot aims to:
 1. **Clone the repository**:
 git clone https://github.com/yourusername/Bombay_Dyeing_Chatbot.git
 
-markdown
-Copy code
-
 2. **Navigate to the frontend directory**:
 cd Bombay_Dyeing_Chatbot/frontend
-
-markdown
-Copy code
 
 3. **Install dependencies**:
 npm install
 
-markdown
-Copy code
-
 4. **Start the frontend**:
 npm start
 
-markdown
-Copy code
 
 ### Backend Setup
 
 1. **Navigate to the backend directory**:
 cd Bombay_Dyeing_Chatbot/backend
 
-markdown
-Copy code
 
 2. **Install dependencies**:
 pip install -r requirements.txt
 
-markdown
-Copy code
 
 3. **Run the FastAPI server**:
 uvicorn main:app --reload
 
-csharp
-Copy code
 
 ## Conclusion
 
