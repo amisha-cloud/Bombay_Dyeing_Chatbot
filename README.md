@@ -29,38 +29,49 @@ The chatbot aims to:
 ### Frontend Setup
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/Bombay_Dyeing_Chatbot.git
-Navigate to the frontend directory:
+git clone https://github.com/yourusername/Bombay_Dyeing_Chatbot.git
 
-bash
+markdown
 Copy code
+
+2. **Navigate to the frontend directory**:
 cd Bombay_Dyeing_Chatbot/frontend
-Install dependencies:
 
-bash
+markdown
 Copy code
+
+3. **Install dependencies**:
 npm install
-Start the frontend:
 
-bash
+markdown
 Copy code
+
+4. **Start the frontend**:
 npm start
-Backend Setup
-Navigate to the backend directory:
 
-bash
+markdown
 Copy code
+
+### Backend Setup
+
+1. **Navigate to the backend directory**:
 cd Bombay_Dyeing_Chatbot/backend
-Install dependencies:
 
-bash
+markdown
 Copy code
+
+2. **Install dependencies**:
 pip install -r requirements.txt
-Run the FastAPI server:
 
-bash
+markdown
 Copy code
+
+3. **Run the FastAPI server**:
 uvicorn main:app --reload
-Conclusion
-The Bombay Dyeing Chatbot streamlines employee query handling by automating responses and ticket creation, improving internal communication and efficiency.
+
+csharp
+Copy code
+
+## Conclusion
+
+The **Bombay Dyeing Chatbot** streamlines employee query handling by automating r
