@@ -57,7 +57,4 @@ uvicorn main:app --reload
 
 ## Conclusion
 
-
-## Conclusion
-
 The **Bombay Dyeing Chatbot** streamlines employee query handling by automating responses and ticket creation, improving internal communication and efficiency.
